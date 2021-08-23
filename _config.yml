@@ -2,7 +2,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 minimal_mistakes_skin: "default" #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 url:
 title: Alsike 2035
-logo: /assets/images/luau-88.png
+logo: /assets/images/banner.jpg
 
 plugins: ["jekyll-include-cache"]
 include: ["_pages"]
