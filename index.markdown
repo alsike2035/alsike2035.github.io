@@ -5,7 +5,7 @@
 layout: home
 toc: true
 ---
-<div class="page__hero--overlay" style=" background-image: url('/assets/images/banner.jpg');">
+<div class="page__hero--overlay" style=" background-image: url('assets/images/banner.jpg');">
   
     <div class="wrapper">
       <h1 id="page-title" class="page__title" itemprop="headline">
