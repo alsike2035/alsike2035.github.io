@@ -62,14 +62,14 @@ Vi har tagit del av kommunens förslag till Stadsutvecklingsstrategi. Förslaget
 
 9.	Strategin motverkar den sociala, ekologiska och ekonomiska hållbarheten och är ett stort experiment av oprövat samhällsbyggande. Det strategin leder till kan inte enkelt rättas till när det träffar verkligheten.
 
-För vem bygger vi detta? 
+För vem bygger vi detta?  
 
 
 Alsike, augusti 2021
 
-Grannar i Alsike
+Grannar i Alsike  
 
-Kommentera eller kontakta oss på <a href="https://www.facebook.com/Alsike-2035--104449161962258/" target="_blank">Facebook</a>
+Kommentera eller kontakta oss på <a href="https://www.facebook.com/Alsike-2035--104449161962258/" target="_blank">Facebook</a>  
 
 
-<sup>*Den här länken fungerar om du har ett förvalt standardemailprogram på datorn eller telefon. Om du använder Apples standard emailapp på iPhone med iOS14 blir formateringen fel, det är en bug i iOS14.</sup>
+<span style="font-size:4em;"><sup>*</sup>Den här länken fungerar om du har ett förvalt standardemailprogram på datorn eller telefon. Om du använder Apples standard emailapp på iPhone med iOS14 blir formateringen fel, det är en bug i iOS14.</span>
