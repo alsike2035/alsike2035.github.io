@@ -66,6 +66,6 @@ För vem bygger vi detta?
 
 Alsike, augusti 2021
 
-Boende på Källdalsvägen
+Grannar i Alsike
 
 Kommentera eller kontakta oss på <a href="https://www.facebook.com/Alsike-2035--104449161962258/" target="_blank">Facebook</a>
