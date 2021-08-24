@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-toc: true
 ---
 <div class="page__hero--overlay" style=" background-image: url('assets/images/banner.jpg');">
   
