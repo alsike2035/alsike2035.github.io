@@ -72,4 +72,4 @@ Grannar i Alsike
 Kommentera eller kontakta oss på <a href="https://www.facebook.com/Alsike-2035--104449161962258/" target="_blank">Facebook</a>  
 
 
-<span style="font-size:4em;"><sup>*</sup>Den här länken fungerar om du har ett förvalt standardemailprogram på datorn eller telefon. Om du använder Apples standard emailapp på iPhone med iOS14 blir formateringen fel, det är en bug i iOS14.</span>
+<span style="font-size:0.5em;"><sup>*</sup>Den här länken fungerar om du har ett förvalt standardemailprogram på datorn eller telefon. Om du använder Apples standard emailapp på iPhone med iOS14 blir formateringen fel, det är en bug i iOS14.</span>
